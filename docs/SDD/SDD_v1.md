@@ -24,3 +24,5 @@ Lenguaje: Python
 Editor: VS Code
 
 Repositorio: GitHub
+
+Diego Morales
