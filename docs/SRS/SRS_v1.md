@@ -15,3 +15,5 @@ RF-004 Actualizar inventario.
 RNF-001 Tiempo de respuesta menor a 3 segundos.
 
 RNF-002 Contraseñas cifradas.
+
+RF-007 El sistema permitirá exportar el inventario a PDF.
